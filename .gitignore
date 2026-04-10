@@ -1,4 +1,4 @@
 .venv
 *.pkl
-news1.txt
+*.txt
 News_Data
